@@ -3,7 +3,7 @@ Esse codigo, tem intuito de facilitar o sistema de tranca de veículos, subistui
 
 A diferença e que a hash que teria que ser copiada de cada veículo, agora apenas precisa do spawn do veículo, já que a native fara o papel de pegar a hash.
 Exemplo:                                                                                           
- { ['name'] = "baller", ['hash'] = -808831384, ['banned'] = false },
+ { ['name'] = "baller", ['hash'] = -808831384, ['banned'] = false },                                                                                       
  { ['name'] = "baller", ['hash'] = GetHashKey('baller'), ["banned"] = false },
 
 Discord: KFS#9611
