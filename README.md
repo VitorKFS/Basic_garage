@@ -9,4 +9,5 @@ Exemplo:
 Discord: KFS#9611
 
 Tutorial de Uso:                                                                                                                
-Diretorio de instalação, substituir o arquivo basic_garage.lua, em VRP/CLIENT/Basic_garage.lua
+Diretorio de instalação, substituir o arquivo basic_garage.lua, em VRP/CLIENT/Basic_garage.lua                                                                       
+https://www.youtube.com/watch?v=Ng4Bb5vu49k&ab_channel=kfs
