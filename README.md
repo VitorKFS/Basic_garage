@@ -1,5 +1,5 @@
 # Basic_garage
-Esse codigo, tem intuito de facilitar o sistema de tranca de veículos, subistituindo a hash, pela native Gethashkey do cfx, esse codigo possui todos os veículos do gta 5 já configurados para FIVEM com essa native.
+Esse codigo, tem intuito de facilitar o sistema de tranca de veículos, substituindo a hash, pela native Gethashkey do cfx, esse codigo possui todos os veículos do gta 5 já configurados para FIVEM com essa native.
 
 A diferença e que a hash que teria que ser copiada de cada veículo, agora apenas precisa do spawn do veículo, já que a native fara o papel de pegar a hash.                  
 Exemplo:                                                                                           
